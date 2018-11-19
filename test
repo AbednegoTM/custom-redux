@@ -1,0 +1,14 @@
+1 shared cache 
+2 predictable state change 
+3 improved developer tooling 
+4 pure functions 
+    - pure will return the same results given the same arguments
+    - depends only on arguments 
+    -  does not produce side effects  - no fetch 
+5 server side rendering 
+
+        store
+        1 state
+        2 getting the state
+        2 listen for state changes
+        3 updating the state
